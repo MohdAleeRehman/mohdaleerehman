@@ -436,37 +436,87 @@ Technologies I've worked with / explored:
 
 ---
 
-# 📊 GitHub
+## <img src="https://img.icons8.com/fluency/28/github.png" alt="GitHub"/> GitHub
 
 <div align="center">
 
-<a href="https://github.com/MohdAleeRehman">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohdAleeRehman&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" />
-</a>
+### Engineering activity
 
-<a href="https://github.com/MohdAleeRehman">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAleeRehman&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Public%20Repositories-21-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Profile-MohdAleeRehman-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</td>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=MohdAleeRehman&style=for-the-badge&color=18181B&label=PROFILE+VIEWS" alt="Profile views"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/MohdAleeRehman?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20my%20repositories-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
 
 </div>
 
 ---
 
-# 📈 Activity
+## <img src="https://img.icons8.com/fluency/28/activity-history.png" alt="Activity"/> Activity
+
+I use GitHub primarily as an engineering workspace — building products, experimenting with systems, and maintaining production-oriented projects.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohdAleeRehman&theme=github-compact&hide_border=true&area=true" width="95%" />
+| Focus | What you'll find                              |
+| :---: | :-------------------------------------------- |
+|  🏗️  | Full-stack applications & internal platforms  |
+|   🤖  | AI agents, automation & intelligent workflows |
+|   🔌  | APIs, webhooks & third-party integrations     |
+|  🛠️  | Repair, fulfilment & operational systems      |
+|   📱  | Mobile applications & device tooling          |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/MohdAleeRehman">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohdAleeRehman&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+</a>
+
+</div>
+
+> **Note:** GitHub's native profile page remains the source of truth for my complete contribution history and activity.
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<p>
+  <img src="https://raw.githubusercontent.com/MohdAleeRehman/MohdAleeRehman/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+</p>
+
+<p>
+  <sub>My contributions, turned into a little engineering snake.</sub>
+</p>
 
 </div>
 
 ---
 
-# 🐍 Contribution Graph
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MohdAleeRehman/MohdAleeRehman/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<a href="https://github.com/MohdAleeRehman?tab=overview">
+  <img src="https://img.shields.io/badge/View%20GitHub%20Profile-18181B?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub profile"/>
+</a>
 
 </div>
 
